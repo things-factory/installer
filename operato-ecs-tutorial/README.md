@@ -29,10 +29,8 @@ curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/ope
 - mosquitto sample sensor data publish script
 
 ```
-curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-tutorial/mosquitto-publish-tester.sh | bash -s sensor1
-curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-tutorial/mosquitto-publish-tester.sh | bash -s sensor2
-curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-tutorial/mosquitto-publish-tester.sh | bash -s sensor3
-curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-tutorial/mosquitto-publish-tester.sh | bash -s sensor4
-curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-tutorial/mosquitto-publish-tester.sh | bash -s sensor5
-curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-tutorial/mosquitto-publish-tester.sh | bash -s sensor6
+curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-tutorial/emulator-mqtt-sensor.sh | bash -s sensor1
+curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-tutorial/emulator-mqtt-sensor.sh | bash -s sensor2
+curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-tutorial/emulator-mqtt-sensor.sh | bash -s sensor3
+curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-tutorial/emulator-mqtt-sensor.sh | bash -s sensor4
 ```
