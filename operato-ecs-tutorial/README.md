@@ -4,6 +4,10 @@
   - Recommended : Linux
   - Available (tested) : MacOS
   - Available (not tested) : Windows
+- internet browser
+  - Recommended : google chrome, safari, firefox
+  - Available (not tested) : edge
+  - Not supported : internet explorer
 - prerequites
   - ‘docker' should be Installed prely
   - https://www.docker.com/
