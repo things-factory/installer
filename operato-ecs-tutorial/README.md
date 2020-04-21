@@ -12,8 +12,7 @@
   - ‘docker' should be Installed prely
   - https://www.docker.com/
 - operato-ecs installation start script
-
-  create a folder for the application and execute the following command in the folder
+  - create a folder for the application and execute the following command in the folder
 
 ```
 curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs/install.sh | bash -s
@@ -33,8 +32,7 @@ curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/ope
 ```
 
 - mosquitto sample sensor data publish script
-
-  Copy the following script line by line, paste it into the command line of each shell and run it.
+  - Copy the following script line by line, paste it into the command line of each shell and run it.
 
 ```
 curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-tutorial/emulator-mqtt-sensor.sh | bash -s sensor1
