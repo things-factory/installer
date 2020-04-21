@@ -26,10 +26,18 @@ else
   curl -O https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs/operato-ecs-stop.sh
 fi
 
+if [ -f "upgrade.sh" ] ; then
+  echo "upgrade.sh exist"
+else
+  echo "upgrade.sh create"
+  curl -O https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs/upgrade.sh
+fi
+
 curl -O https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs/docker-compose.yml
 
 chmod u+x operato-ecs-start.sh
 chmod u+x operato-ecs-stop.sh
+chmod u+x upgrade.sh
 
 docker pull hatiolab/operato-ecs:latest
 
