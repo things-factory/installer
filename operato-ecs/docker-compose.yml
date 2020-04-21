@@ -11,5 +11,6 @@ services:
     image: hatiolab/operato-ecs:latest
     volumes:
       - ./db.sqlite:/app/db.sqlite
+      - ./logs:/app/logs
     ports:
       - 3000
