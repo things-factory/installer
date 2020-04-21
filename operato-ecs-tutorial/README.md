@@ -5,11 +5,11 @@
   - available (tested) : MacOS
   - available (not tested) : Windows
 - internet browser
-  - recommended : google chrome, safari, firefox
-  - available (not tested) : edge
-  - not supported : internet explorer
+  - recommended : google Chrome, Safari, Firefox
+  - available (not tested) : Edge
+  - not supported : Internet Explorer
 - prerequites
-  - ‘docker' should be Installed prely
+  - ‘docker' should be installed prely
   - https://www.docker.com/
 - operato-ecs installation start script
   - create a folder for the application and execute the following command in the folder
