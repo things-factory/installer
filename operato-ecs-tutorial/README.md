@@ -31,6 +31,7 @@ curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/ope
 ```
 
 - mosquitto sample sensor data publish script
+  Copy the following script line by line, paste it into the command line of each shell and run it.
 
 ```
 curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-tutorial/emulator-mqtt-sensor.sh | bash -s sensor1
