@@ -14,6 +14,7 @@ curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/ope
 ```
 
 # Tutorial 2 - Simple Scenario
+- scenario
 
 - prerequites
   - ‘mosquitto’ should be installed prely
