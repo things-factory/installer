@@ -27,3 +27,7 @@ else
 fi
 
 curl -O https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs/docker-compose.yml
+
+docker pull hatiolab/operato-ecs:latest
+
+docker pull hatiolab/operato-nginx:latest
