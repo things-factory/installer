@@ -1,14 +1,14 @@
 version: "3"
 services:
   nginx:
-    image: hatiolab/operato-nginx:0.1
+    image: hatiolab/operato-nginx:latest
     ports:
       - ${HostPort}:80
     depends_on:
       - app
   app:
     container_name: operato-ecs
-    image: hatiolab/operato-ecs:0.1
+    image: hatiolab/operato-ecs:latest
     volumes:
       - ./db.sqlite:/app/db.sqlite
     ports:
