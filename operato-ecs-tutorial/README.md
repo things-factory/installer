@@ -12,6 +12,7 @@
   - ‘docker' should be Installed prely
   - https://www.docker.com/
 - operato-ecs installation start script
+  create a folder for the application and execute the following command in the folder
 
 ```
 curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs/install.sh | bash -s
