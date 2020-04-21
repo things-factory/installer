@@ -1,13 +1,13 @@
 # Tutorial 1 - Installation
 
 - installation target OS
-  - Recommended : Linux
-  - Available (tested) : MacOS
-  - Available (not tested) : Windows
+  - recommended : Linux
+  - available (tested) : MacOS
+  - available (not tested) : Windows
 - internet browser
-  - Recommended : google chrome, safari, firefox
-  - Available (not tested) : edge
-  - Not supported : internet explorer
+  - recommended : google chrome, safari, firefox
+  - available (not tested) : edge
+  - not supported : internet explorer
 - prerequites
   - ‘docker' should be Installed prely
   - https://www.docker.com/
@@ -32,7 +32,7 @@ curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/ope
 ```
 
 - mosquitto sample sensor data publish script
-  - Copy the following script line by line, paste it into the command line of each shell and run it.
+  - copy the following script line by line, paste it into the command line of each shell and run it.
 
 ```
 curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-tutorial/emulator-mqtt-sensor.sh | bash -s sensor1
