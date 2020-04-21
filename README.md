@@ -1,7 +1,6 @@
 # HOW TO INSTALL
 
-## On Linux
+## operato ECS (Equipment Control System)
 
-## On MacOS
-
-## On Windows
+[installation & tutorials](https://github.com/things-factory/installer/blob/master/operato-ecs-tutorial/README.md)
+[installation & tutorials](./operato-ecs-tutorial/README.md)
