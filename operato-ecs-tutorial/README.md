@@ -28,7 +28,7 @@ curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/ope
 - mosquitto installation script with docker
 
 ```
-
+curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-with-mosquitto/install.sh | bash -s
 ```
 
 - mosquitto sample sensor data publish script
