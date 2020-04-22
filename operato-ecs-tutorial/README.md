@@ -1,5 +1,6 @@
 # Tutorial 1 - Installation
 
+- https://youtu.be/AM6LZ_NcNYM
 - installation target OS
   - recommended : Linux
   - available (tested) : MacOS
@@ -29,8 +30,9 @@ curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/ope
 
 ![Scenario Diagram](./tutorial-02-scenario.jpg)
 
-- prerequisite 
-  - install ‘mosquitto’ at https://mosquitto.org/ 
+- https://youtu.be/MdOpjZxVZ_c
+- prerequisite
+  - install ‘mosquitto’ at https://mosquitto.org/
 - publishing sample sensor data to mosquitto
   - execute each of the following script in your terminal to publish the data
 
