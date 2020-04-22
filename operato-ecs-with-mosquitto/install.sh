@@ -43,4 +43,4 @@ docker pull hatiolab/operato-ecs:latest
 
 docker pull hatiolab/operato-nginx:latest
 
-docker pull docker pull eclipse-mosquitto
+docker pull eclipse-mosquitto
