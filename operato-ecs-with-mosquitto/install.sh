@@ -39,8 +39,6 @@ chmod u+x operato-ecs-start.sh
 chmod u+x operato-ecs-stop.sh
 chmod u+x upgrade.sh
 
+docker pull eclipse-mosquitto:latest
 docker pull hatiolab/operato-ecs:latest
-
 docker pull hatiolab/operato-nginx:latest
-
-docker pull eclipse-mosquitto
