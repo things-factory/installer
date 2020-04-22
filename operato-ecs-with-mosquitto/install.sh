@@ -42,3 +42,5 @@ chmod u+x upgrade.sh
 docker pull eclipse-mosquitto:latest
 docker pull hatiolab/operato-ecs:latest
 docker pull hatiolab/operato-nginx:latest
+
+docker-compose create

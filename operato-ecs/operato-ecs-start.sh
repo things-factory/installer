@@ -12,4 +12,4 @@ echo "HOST_PORT : ${HOST_PORT}"
 echo "HostPort="$HOST_PORT > .env
 
 
-docker-compose up -d
+docker-compose start
