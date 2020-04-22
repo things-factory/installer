@@ -29,9 +29,9 @@ curl -fsSL https://raw.githubusercontent.com/things-factory/installer/master/ope
 
 # Tutorial 2 - Simple Scenario
 
-![Scenario Diagram](./tutorial-02-scenario.jpg)
-
 [![Installation](https://img.youtube.com/vi/MdOpjZxVZ_c/mqdefault.jpg)](https://youtu.be/MdOpjZxVZ_c)
+
+![Scenario Diagram](./tutorial-02-scenario.jpg)
 
 - prerequisite
   - install ‘mosquitto’ at https://mosquitto.org/
