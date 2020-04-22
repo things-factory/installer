@@ -39,6 +39,8 @@ chmod u+x operato-ecs-start.sh
 chmod u+x operato-ecs-stop.sh
 chmod u+x upgrade.sh
 
+echo "HostPort=3000" > .env
+
 docker pull hatiolab/operato-ecs:latest
 
 docker pull hatiolab/operato-nginx:latest
