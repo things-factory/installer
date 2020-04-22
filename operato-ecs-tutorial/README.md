@@ -9,7 +9,7 @@
   - available (not tested) : Edge
   - not supported : Internet Explorer
 - prerequites
-  - ‘docker' should be installed prely
+  - ‘docker' and 'docker-compose' should be installed prely
   - https://www.docker.com/
 - operato-ecs installation start script
   - create a folder for the application and execute the following command in the folder
