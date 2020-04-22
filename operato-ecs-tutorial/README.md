@@ -12,7 +12,8 @@
   - ‘docker' and 'docker-compose' should be installed prely
   - https://www.docker.com/
 - operato-ecs installation start script
-  - create a folder for the application and execute the one of following commands in the folder
+  - create a folder for the application and change directory to your folder.
+  - first script will install operato-ecs without mosquitto, run the second script if you need both operato-ecs and mosquitto
 
 ```
 # install script for operato-ecs
