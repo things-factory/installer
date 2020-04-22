@@ -12,14 +12,5 @@ services:
     volumes:
       - ./db.sqlite:/app/db.sqlite
       - ./logs:/app/logs
-    links:
-      - mosquitto
     ports:
       - 3000
-    depends_on:
-      - mosquitto
-  mosquitto:
-    image: eclipse-mosquitto:latest
-    ports:
-      - 1883:1883
-      - 9001:9001
