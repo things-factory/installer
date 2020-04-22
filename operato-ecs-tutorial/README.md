@@ -8,10 +8,10 @@
   - recommended : google Chrome, Safari, Firefox
   - available (not tested) : Edge
   - not supported : Internet Explorer
-- prerequites
+- prerequisite
   - ‘docker' and 'docker-compose' should be installed prely
   - https://www.docker.com/
-- operato-ecs installation start script
+- operato-ecs installation script
   - create a folder for the application and change directory to your folder.
   - first script will install operato-ecs without mosquitto, run the second script if you need both operato-ecs and mosquitto
 
