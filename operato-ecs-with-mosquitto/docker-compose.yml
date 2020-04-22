@@ -1,0 +1,25 @@
+version: "3"
+services:
+  nginx:
+    image: hatiolab/operato-nginx:latest
+    ports:
+      - ${HostPort}:80
+    depends_on:
+      - app
+  app:
+    container_name: operato-ecs
+    image: hatiolab/operato-ecs:latest
+    volumes:
+      - ./db.sqlite:/app/db.sqlite
+      - ./logs:/app/logs
+    links:
+      - mosquitto
+    ports:
+      - 3000
+    depends_on:
+      - mosquitto
+  mosquitto:
+    image: eclipse-mosquitto:latest
+    ports:
+      - 1883:1883
+      - 9001:9001
