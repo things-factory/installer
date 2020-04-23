@@ -1,4 +1,4 @@
-# HOW TO INSTALL
+# Operato Solutions - Installation & Tutorials
 
 ## operato ECS (Equipment Control System)
 
