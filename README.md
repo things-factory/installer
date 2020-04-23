@@ -10,4 +10,6 @@ Start your automation project by installing Operato-ECS into Raspberry-pi which 
 
 [Tutorial 02 - Simple Scenario](./operato-ecs-tutorial/tutorial-02-simple-scenario.md)
 
-[![Installation](https://img.youtube.com/vi/MdOpjZxVZ_c/mqdefault.jpg)](https://youtu.be/MdOpjZxVZ_c)
+[![Simple Scenario](https://img.youtube.com/vi/MdOpjZxVZ_c/mqdefault.jpg)](https://youtu.be/MdOpjZxVZ_c)
+
+[Tutorial 03 - Scenario Modification](./operato-ecs-tutorial/tutorial-03-scenario-modification.md)
