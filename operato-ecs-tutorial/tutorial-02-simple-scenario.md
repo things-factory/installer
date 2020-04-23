@@ -1,4 +1,4 @@
-# Tutorial 2 - Simple Scenario
+# Tutorial 2 - Start with a Simple Scenario
 
 [![Installation](https://img.youtube.com/vi/MdOpjZxVZ_c/mqdefault.jpg)](https://youtu.be/MdOpjZxVZ_c)
 
