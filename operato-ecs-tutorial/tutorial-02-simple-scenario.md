@@ -11,7 +11,7 @@
     - install ‘mosquitto’ at https://mosquitto.org/
   - after installing 'operato ecs with mosquitto'
     - install 'mosquitto-clients'
-    - in ubuntu : refer to https://zoomadmin.com/HowToInstall/UbuntuPackage/mosquitto-clients
+      - in ubuntu : refer to https://zoomadmin.com/HowToInstall/UbuntuPackage/mosquitto-clients
 - endpoint after installing operato ecs only
   - mqtt://localhost:1883
 - endpoint after installing 'operato ecs with mosquitto'
