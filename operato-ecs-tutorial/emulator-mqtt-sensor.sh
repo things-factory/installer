@@ -5,7 +5,7 @@ else
 fi
 
 if [ -z "$2" ]; then 
-  HOST='localhost'
+  HOST=localhost
 else 
   HOST=$2
 fi
