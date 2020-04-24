@@ -8,8 +8,7 @@
 
 - prerequisite
   - install ‘mosquitto’ at https://mosquitto.org/
-- change your mosquitto endpoint as shown below
-  - mqtt://localhost:1883 => mqtt://mosquitto:1883
+
 - publishing sample sensor data to mosquitto
   - execute each of the following script in your terminal to publish the data
 
