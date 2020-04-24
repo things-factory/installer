@@ -9,6 +9,12 @@
 - prerequisite
   - install ‘mosquitto’ at https://mosquitto.org/
 
+- endpoint after installing operato ecs only
+  - mqtt://localhost:1883
+
+- endpoint after installing operato ecs with mosquitto
+  - mqtt://mosquitto:1883
+
 - publishing sample sensor data to mosquitto
   - execute each of the following script in your terminal to publish the data
 
