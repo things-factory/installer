@@ -12,13 +12,14 @@
   - after installing 'operato ecs with mosquitto'
     - install 'mosquitto-clients'
       - in ubuntu : refer to https://zoomadmin.com/HowToInstall/UbuntuPackage/mosquitto-clients
-- endpoint after installing operato ecs only
-  - if mosquitto server is installed same server
-    - mqtt://localhost:1883
-  - if mosquitto server is installed another host
-    - mqtt://<host IP - mosquitto-broker installed>>:1883
-- endpoint after installing 'operato ecs with mosquitto'
-  - mqtt://mosquitto:1883
+- endpoint setting in tutorial video [ 0:20 ](https://youtu.be/MdOpjZxVZ_c?t=20)
+  - endpoint after installing operato ecs only
+    - if mosquitto server is installed same server
+      - mqtt://localhost:1883
+    - if mosquitto server is installed another host
+      - mqtt://<host IP - mosquitto-broker installed>:1883
+  - endpoint after installing 'operato ecs with mosquitto'
+    - mqtt://mosquitto:1883
 - publishing sample sensor data to mosquitto
   - execute each of the following script in your terminal to publish the data
 
