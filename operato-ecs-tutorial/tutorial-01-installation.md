@@ -3,9 +3,10 @@
 [![Installation](https://img.youtube.com/vi/AM6LZ_NcNYM/mqdefault.jpg)](https://youtu.be/AM6LZ_NcNYM)
 
 - installation target OS
-  - recommended (ubuntu tested ): Linux
-  - available (tested) : MacOS
-  - available (not tested) : Windows
+  - recommended (tested): Linux ubuntu and centos
+  - available (tested with docker-desktop) : MacOS
+  - available (tested with docker-desktop) : Windows
+  - not available yet (testing) : raspbian on Raspberry Pi
 - internet browser
   - recommended : google Chrome, Safari, Firefox
   - available (not tested) : Edge

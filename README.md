@@ -15,3 +15,7 @@ Start your automation project by installing Operato-ECS into Raspberry-pi which 
 [Tutorial 03 - Scenario Modification](./operato-ecs-tutorial/tutorial-03-scenario-modification.md)
 
 [![Scenario Modification](https://img.youtube.com/vi/wT9Zt7e8mBI/mqdefault.jpg)](https://youtu.be/wT9Zt7e8mBI)
+
+[Tutorial 04 - Adding new Menu, Making Scenario Control UI Board]
+
+[Tutorial 05 - Making Covid Status Chart from Covid API]
