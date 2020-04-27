@@ -30,7 +30,7 @@ if [ -f "upgrade.sh" ] ; then
   echo "upgrade.sh exist"
 else
   echo "upgrade.sh create"
-  curl -O https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs/upgrade.sh
+  curl -O https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-with-mosquitto/upgrade.sh
 fi
 
 curl -O https://raw.githubusercontent.com/things-factory/installer/master/operato-ecs-with-mosquitto/docker-compose.yml
