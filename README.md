@@ -18,4 +18,4 @@ Start your automation project by installing Operato-ECS into Raspberry-pi which 
 
 [Tutorial 04 - Adding new Menu, Making Scenario Control UI Board]
 
-[Tutorial 05 - Making Covid Status Chart from Covid API]
+[Tutorial 05 - Making Covid19 Status Chart from [Covid19 API](https://api.covid19api.com/)]
