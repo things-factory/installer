@@ -12,5 +12,6 @@ services:
     volumes:
       - ./db.sqlite:/app/db.sqlite
       - ./logs:/app/logs
+      - ./config.production.js:/app/config.production.js
     ports:
       - 3000

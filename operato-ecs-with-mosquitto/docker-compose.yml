@@ -12,6 +12,7 @@ services:
     volumes:
       - ./db.sqlite:/app/db.sqlite
       - ./logs:/app/logs
+      - ./config.production.js:/app/config.production.js
     links:
       - mosquitto
     ports:
