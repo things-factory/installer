@@ -6,4 +6,4 @@
 
 ## Tutorial scenario
 
-![Scenario Diagram](./tutorial-04-scenario.jpg)
+![Scenario Diagram](./tutorial-04-scenario.png)
