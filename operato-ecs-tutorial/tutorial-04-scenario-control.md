@@ -1,8 +1,6 @@
 # Tutorial 4 - Scenario Control
 
-[Online Tutorial 04 - Scenario Control](https://operato-ecs.opa-x.com/domain/system/board-viewer/f2a58c71-f2cc-4111-adbc-99ffc8d3bbe2?title=SAMPLE%20MENU)
-
-- id/pwd (ecsadmin@hatiolab.com / hatiolab)
+[![Add new Menu and Make Scenario Control UI Board](https://img.youtube.com/vi/-1bZg75Ao0A/mqdefault.jpg)](https://youtu.be/-1bZg75Ao0A)
 
 ## Tutorial scenario
 

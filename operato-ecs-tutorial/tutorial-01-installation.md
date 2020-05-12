@@ -8,7 +8,7 @@
     - available (tested with docker-desktop) : MacOS
     - available (tested with docker-desktop) : Windows
   - arm
-    - not available yet (testing) : raspbian on Raspberry Pi
+    - available (tested with docker) : raspbian on Raspberry Pi
 - internet browser
   - recommended : google Chrome, Safari, Firefox
   - available (not tested) : Edge
