@@ -22,4 +22,4 @@ Start your automation project by installing Operato-ECS into Raspberry-pi which 
 
 [Tutorial 05 - Making Covid19 Status Chart from [Covid19 API](https://api.covid19api.com/)]
 
-[Tutorial 06 - Robot Arm Controller. Featuring [Neuromeka Indy7](https://www.neuromeka.com/)]
+[Tutorial 06 - Controlling COBOT (Collaborative and Symbiotic Robot). Featuring [Neuromeka Indy7](https://www.neuromeka.com/)]
