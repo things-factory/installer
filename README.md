@@ -18,9 +18,11 @@ Start your automation project by installing Operato-ECS into Raspberry-pi which 
 
 [Tutorial 04 - Add new Menu and Make Scenario Control UI Board](./operato-ecs-tutorial/tutorial-04-scenario-control.md)
 
-[![Add new Menu and Make Scenario Control UI Board](https://img.youtube.com/vi/-1bZg75Ao0A/mqdefault.jpg)](https://youtu.be/-1bZg75Ao0A)
+[![Add new Menu and Make Scenario Control UI Board](https://img.youtube.com/vi/sd5NJF6IND0/mqdefault.jpg)](https://youtu.be/sd5NJF6IND0)
 
 [Tutorial 05 - Making Covid19 Status Chart from Covid19 API](./operato-ecs-tutorial/tutorial-05-covid19.md)
+
+[![Making Covid19 Status Chart from Covid19 API](https://img.youtube.com/vi/59DF3vvGgDA/mqdefault.jpg)](https://youtu.be/59DF3vvGgDA)
 
 [Tutorial 06 - Controlling COBOT (Collaborative and Symbiotic Robot). Featuring [Neuromeka Indy7](https://www.neuromeka.com/)]
 
